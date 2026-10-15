@@ -1,20 +1,18 @@
 <?php include 'includes/header.php'; ?>
 
-<!-- Hero Section: Banner principal con el Carousel ocupando todo el ancho -->
-<div class="bg-darkCyan fg-white p-8 text-center">
+<div class="bg-cyan fg-white p-8 text-center shadow-2">
     <h1 class="text-light mb-2"><i class="fas fa-university"></i> Bienvenid@ al Campus Virtual</h1>
     <p class="text-leader">Tu plataforma integral de aprendizaje y gestión académica en línea.</p>
 </div>
 
-<!-- Carousel de ancho completo -->
 <div data-role="carousel" 
-     data-height="350" 
+     data-height="360" 
      data-cls-bullet="bullet-style" 
      data-auto-start="true" 
      data-period="4000" 
-     class="border-none">
+     class="mt-4 border-none shadow-2">
      
-    <div class="slide p-8 bg-darkBlue fg-white text-center flex-column flex-justify-center flex-align-center">
+    <div class="slide p-8 bg-darkPink fg-white text-center">
         <i class="fas fa-laptop-code fa-4x mb-4"></i>
         <h2>Aprende a tu Propio Ritmo</h2>
         <p class="text-leader">Accede a tus materiales de clase, videos y sílabos las 24 horas del día.</p>
@@ -31,9 +29,9 @@
         <h2>Monitorea tu Rendimiento</h2>
         <p class="text-leader">Revisa tus calificaciones y avances académicos en tiempo real de forma segura.</p>
     </div>
+
 </div>
 
-<!-- Accesos directos distribuidos a lo ancho de la pantalla -->
 <div class="container mt-6 mb-6">
     <div class="row">
         <div class="cell-md-4">

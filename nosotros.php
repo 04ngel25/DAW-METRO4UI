@@ -19,7 +19,7 @@
                 <div class="cell-md-6 cell-lg-3 mb-4">
                     <div class="card">
                         <div class="card-header p-0">
-                            <img src="IMG/integrante1.jpg" alt="Integrante 1" class="foto-integrante">
+                            <img src="assets/img/integrante1.jpg" alt="Integrante 1" class="foto-integrante">
                         </div>
                         <div class="card-content p-3">
                             <h5 class="m-0">Nombre Integrante 1</h5>
@@ -36,7 +36,7 @@
                 <div class="cell-md-6 cell-lg-3 mb-4">
                     <div class="card">
                         <div class="card-header p-0">
-                            <img src="IMG/integrante2.jpg" alt="Integrante 2" class="foto-integrante">
+                            <img src="assets/img/integrante2.jpg" alt="Integrante 2" class="foto-integrante">
                         </div>
                         <div class="card-content p-3">
                             <h5 class="m-0">Nombre Integrante 2</h5>
@@ -53,7 +53,7 @@
                 <div class="cell-md-6 cell-lg-3 mb-4">
                     <div class="card">
                         <div class="card-header p-0">
-                            <img src="IMG/integrante3.jpg" alt="Integrante 3" class="foto-integrante">
+                            <img src="assets/img/integrante3.jpg" alt="Integrante 3" class="foto-integrante">
                         </div>
                         <div class="card-content p-3">
                             <h5 class="m-0">Nombre Integrante 3</h5>
@@ -70,7 +70,7 @@
                 <div class="cell-md-6 cell-lg-3 mb-4">
                     <div class="card">
                         <div class="card-header p-0">
-                            <img src="IMG/integrante4.jpg" alt="Integrante 4" class="foto-integrante">
+                            <img src="assets/img/integrante4.jpg" alt="Integrante 4" class="foto-integrante">
                         </div>
                         <div class="card-content p-3">
                             <h5 class="m-0">Nombre Integrante 4</h5>

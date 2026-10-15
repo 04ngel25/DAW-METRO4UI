@@ -5,10 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Campus Virtual - Metro 4 UI</title>
-    <!-- CSS de Metro 4 UI (CDN Oficial) -->
+    <meta name="metro4:locale" content="es-MX">
     <link rel="stylesheet" href="https://cdn.metroui.org.ua/v4.3.2/css/metro-all.min.css">
-    <!-- FontAwesome para Iconos -->
+    <link rel="stylesheet" href="https://cdn.metroui.org.ua/4.5.12/metro.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.metroui.org.ua/current/icons.css"/>
+    <link rel="stylesheet" href="CSS/style.css">
+
 </head>
 
 <body class="bg-white">
