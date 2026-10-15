@@ -10,9 +10,9 @@
      data-cls-bullet="bullet-style" 
      data-auto-start="true" 
      data-period="4000" 
-     class="mt-4 border-none shadow-1">
+     class="mt-4 border-none shadow-2">
      
-    <div class="slide p-8 bg-darkPink fg-white text-center flex-column flex-justify-center flex-align-center">
+    <div class="slide p-8 bg-darkPink fg-white text-center">
         <i class="fas fa-laptop-code fa-4x mb-4"></i>
         <h2>Aprende a tu Propio Ritmo</h2>
         <p class="text-leader">Accede a tus materiales de clase, videos y sílabos las 24 horas del día.</p>
@@ -29,6 +29,7 @@
         <h2>Monitorea tu Rendimiento</h2>
         <p class="text-leader">Revisa tus calificaciones y avances académicos en tiempo real de forma segura.</p>
     </div>
+
 </div>
 
 <div class="container mt-6 mb-6">
