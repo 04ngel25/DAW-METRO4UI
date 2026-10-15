@@ -1,5 +1,6 @@
 <?php include 'includes/header.php'; ?>
 
+<div class="bg-cyan fg-white p-8 text-center shadow-2">
     <h1 class="text-light mb-2"><i class="fas fa-university"></i> Bienvenid@ al Campus Virtual</h1>
     <p class="text-leader">Tu plataforma integral de aprendizaje y gestión académica en línea.</p>
 </div>
